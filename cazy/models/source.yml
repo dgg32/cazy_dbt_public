@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: cazy
+    schema: raw
+    tables:
+      - name: gene
+        identifier: raw_cazy_data
+      - name: genome
+        identifier: raw_cazy_genome
+
