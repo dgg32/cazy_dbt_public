@@ -1,0 +1,19 @@
+{
+    "Version": "2012-10-17",
+    "Id": "Policy16361",
+    "Statement": [
+        {
+            "Sid": "Pub Bucket Policy",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:ListBucket",
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::datathon-medium-file",
+                "arn:aws:s3:::datathon-medium-file/*"
+            ]
+        }
+    ]
+}
