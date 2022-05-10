@@ -6,7 +6,7 @@
 
   
 
-This repository contains code and data for my article "Analyze CAZy with dbt, Snowflake and Preset](https://towardsdatascience.com/neo4j-for-diseases-959dffb5b479)".
+This repository contains code and data for my article "Analyze CAZy with dbt, Snowflake and Preset](https://dgg32.medium.com/analyze-cazy-with-dbt-snowflake-and-preset-2eae46856e10)".
 
 1. The python scripts are for data processing.
 
